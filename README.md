@@ -1,2 +1,2 @@
 # Karting
-Git repository pentru jocul cu karting.
+A git repository for my karting game.
