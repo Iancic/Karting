@@ -18,8 +18,9 @@ public class Kart : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
+
         rotation_y = transform.eulerAngles.y; 
-        
+
         if (Input.GetKey(KeyCode.Q))
         {
         CorpRigid.drag = 1;
